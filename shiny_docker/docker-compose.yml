@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  shinyserver:
+    image: mi_shiny_server_imagen:latest
+    container_name: ShinyServer
+    restart: always
+    networks:
+      - net_seguro
+    volumes:
+      - d:/docker/shiny/shiny_apps:/srv/shiny-server
+
+  shinyproxy:
+    image: nginx:latest
+    container_name: ShinyProxy
+    restart: always
+    ports:
+      - "4443:443"  # Puerto externo:interno
+    volumes:
+      - d:/docker/shiny/shiny_proxy/nginx.conf:/etc/nginx/conf.d/default.conf
+      - d:/docker/shiny/certs/letsencrypt/realcerts:/etc/nginx/certs
+    depends_on:
+      - shinyserver
+    networks:
+      - net_seguro
+
+networks:
+  net_seguro:
+    driver: bridge
+
